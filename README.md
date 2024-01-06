@@ -10,7 +10,7 @@ You can use this pack on both <b>Fabric</b> and <b>Forge</b>, however make sure 
 
  <ul>
   <li><a href="https://modrinth.com/mod/fabric-api">Fabric API</a></li>
-  <li><a href"https://modrinth.com/mod/sodium">Sodium</a></li>
+  <li><a href="https://modrinth.com/mod/sodium">Sodium</a></li>
   <li><a href="https://modrinth.com/mod/iris">Iris</a></li>
  </ul>
 
