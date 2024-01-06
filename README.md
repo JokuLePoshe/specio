@@ -6,7 +6,7 @@ Specio is a PBR Minecraft texturepack that uses the default texture as specular 
 
 You can use this pack on both <b>Fabric</b> and <b>Forge</b>, however make sure you have those mods installed:
 
-<h4>For Fabirc:</h4>
+<h4>For Fabric:</h4>
 
  <ul>
   <li><a href="https://modrinth.com/mod/sodium">Sodium</a></li>
